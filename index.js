@@ -28,6 +28,5 @@ console.log(total);
 
 var num=0;
 for(var i =10; i >num; i--){
-    // console.log(`2 X ${i} = ${2*i}`);
     console.log(i);
 }
